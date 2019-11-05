@@ -30,7 +30,7 @@
             x="204"
             y="24"
             width="157"
-            height="91"/>
+            height="109"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
             href="ApplicationProcess_663c376a-7cc4-43a8-8acf-89393bd44a2b.xml#663c376a-7cc4-43a8-8acf-89393bd44a2b"/>
@@ -56,7 +56,7 @@
             x="24"
             y="24"
             width="157"
-            height="91"/>
+            height="109"/>
         <archimateElement
             xsi:type="archimate:ApplicationProcess"
             href="ApplicationProcess_d003f9e8-972e-4740-b352-0714a62cf1b3.xml#d003f9e8-972e-4740-b352-0714a62cf1b3"/>
