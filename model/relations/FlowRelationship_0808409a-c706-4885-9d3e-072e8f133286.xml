@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Propose Follow-up Observations"
+    id="0808409a-c706-4885-9d3e-072e8f133286">
+  <source
+      xsi:type="archimate:ApplicationProcess"
+      href="ApplicationProcess_f463e895-8b70-4245-ba39-d75bce7870cc.xml#f463e895-8b70-4245-ba39-d75bce7870cc"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_a504801a-d9bb-44ed-b843-ec445901f6c2.xml#a504801a-d9bb-44ed-b843-ec445901f6c2"/>
+</archimate:FlowRelationship>

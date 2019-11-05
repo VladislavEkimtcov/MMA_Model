@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[TOMs] Follow-up Observatory Orchestration Message (Data Object)"
+    id="cec63b0f-7610-45c5-977b-69d0b0661348"
+    documentation="This is a message publishing suggestions that specific observatories with a specific instruments, at a specific time window will perfor a follow-up observation."/>
