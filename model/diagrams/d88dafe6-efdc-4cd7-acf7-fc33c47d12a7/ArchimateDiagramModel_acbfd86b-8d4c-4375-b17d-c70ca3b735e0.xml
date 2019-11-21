@@ -270,9 +270,9 @@
           href="CompositionRelationship_638a98a9-02e2-4f42-97ac-820e5e3c02e9.xml#638a98a9-02e2-4f42-97ac-820e5e3c02e9"/>
     </sourceConnections>
     <bounds
-        x="-180"
+        x="24"
         y="48"
-        width="400"
+        width="156"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -293,7 +293,7 @@
             href="FlowRelationship_755b5404-e5e2-4790-b1ee-d3f86470748a.xml#755b5404-e5e2-4790-b1ee-d3f86470748a"/>
       </sourceConnections>
       <bounds
-          x="240"
+          x="12"
           y="24"
           width="120"
           height="109"/>
@@ -318,7 +318,7 @@
           href="CompositionRelationship_45747614-6b4a-4cb6-82ef-55d600e06929.xml#45747614-6b4a-4cb6-82ef-55d600e06929"/>
     </sourceConnections>
     <bounds
-        x="1236"
+        x="1212"
         y="48"
         width="193"
         height="140"/>

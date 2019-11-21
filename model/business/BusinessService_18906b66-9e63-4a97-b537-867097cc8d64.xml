@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aggregate Transient Information (Community Service)"
+    id="18906b66-9e63-4a97-b537-867097cc8d64"
+    documentation="Accumulate information about each transient (including variable Objects), and record any information about data rights. This Aggregate information  is made available to users, not necessarily participating in the pub-sub system. &#xA;Events are identified as “significant” based on level of public interest.&#xA;"/>

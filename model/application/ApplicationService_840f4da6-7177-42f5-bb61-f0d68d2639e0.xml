@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transit Information to Peer Infrastructure (Application Service)"
+    id="840f4da6-7177-42f5-bb61-f0d68d2639e0"
+    documentation="Send data into “other infrastructure systems,” as well as a subscriber in our system that is able to obtain data from “other infrastructure systems.” The other infrastructure may be intermittently connected (e. Polar telescopes, space).&#xA;&#xA;Respects definition of information that is allowed to be published, which originates from outside of the pub-sub system, for example re-injection of the same information from an out-of-band source.&#xA;&#xA;SYMMETRIC CASE: define information inside that is allowed to be publishing to the outside world&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cluster Channels (Application Service)"
+    id="c96b664e-aa71-42e6-b9b6-bb29df1fa417"
+    documentation="Maintain awareness of the purpose of channels currently in use.  For example all channels involved in orchestration activities, all channels transporting follow-up information for a specific event."/>

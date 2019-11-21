@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Message History (Application Service)"
+    id="ebda97a1-9816-40f8-8259-c57cf3188c45"
+    documentation="Record (respecting the proprietary data rights) the record of the messages transiting the system for long, possibly indefinite, period of time. It also allows users to query via a direct connection, (i.e not using the pub-sub system). May include google-esqe search capabilities."/>

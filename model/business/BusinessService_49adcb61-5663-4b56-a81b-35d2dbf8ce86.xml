@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestrate Follow-Up Observations (Community Service)"
+    id="49adcb61-5663-4b56-a81b-35d2dbf8ce86"
+    documentation="A publisher that orchestrates/coordinates follow-up observations by subscribing observatories, and the publisher includes the ability to query the record of historical and real-time decision-making processes not necessarily expressed in messages that were transmitted on the pub-sub system.&#xA;"/>

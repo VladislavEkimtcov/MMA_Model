@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Populate Data Lake (Application Service)"
+    id="56127f23-5200-4fb6-86e9-71453d7a89aa"
+    documentation="provide a Data management layer that provides replication of large subsets of data from existing archives."/>

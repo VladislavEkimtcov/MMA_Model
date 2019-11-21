@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broker Events (Community Service)"
+    id="1b1670ae-490f-4777-9df6-8179e743f431"
+    documentation="Receive notice of transient events, possibly augmenting the information e.g. classifying it, and sends subsets of events to a user not necessarily participating in the pub-sub system, based on selection criteria supplied by the user. (Broker style analysis)&#xA;"/>

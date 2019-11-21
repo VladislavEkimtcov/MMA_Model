@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Record Reputation (Application Service)"
+    id="c8d1c077-66fb-422c-9ec1-f8fe6b266386"
+    documentation="Collect information related to accuracy of reported information and appropriate use of the infrastructure, allowing inferences regarding the reputation of any individual service or person using the infrastructure. Proper use of infrastructure includes respecting proprietary data rights."/>

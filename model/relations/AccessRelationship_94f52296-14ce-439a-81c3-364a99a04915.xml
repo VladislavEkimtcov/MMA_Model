@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliver"
+    id="94f52296-14ce-439a-81c3-364a99a04915">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_a504801a-d9bb-44ed-b843-ec445901f6c2.xml#a504801a-d9bb-44ed-b843-ec445901f6c2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_01edc695-37fb-4245-aca3-3bc2e376c7ab.xml#01edc695-37fb-4245-aca3-3bc2e376c7ab"/>
+</archimate:AccessRelationship>
