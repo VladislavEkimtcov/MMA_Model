@@ -260,10 +260,10 @@
       textAlignment="1"
       content="There was HTTPS here...">
     <bounds
-        x="1632"
-        y="167"
-        width="185"
-        height="80"/>
+        x="1692"
+        y="8"
+        width="125"
+        height="38"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
