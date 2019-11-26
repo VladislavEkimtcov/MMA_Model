@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Analyze Events (Community Service)"
+    name="Science Platform (Community Service)"
     id="fde8faab-6970-47a7-930c-05366fd9e58a"
     documentation="Acquire information about specific transients, possibly publishing annotations and/or corrections via analysis, or joining two detections."/>
