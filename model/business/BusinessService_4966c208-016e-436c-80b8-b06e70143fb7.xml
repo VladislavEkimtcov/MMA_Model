@@ -1,5 +1,5 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Announce Origination Event (Community Service)"
+    name="Transmit Origination Event (Community Service)"
     id="4966c208-016e-436c-80b8-b06e70143fb7"
     documentation="Announce by publishing fundamental transient detections (origination event) to subscribers within the pub-sub system"/>

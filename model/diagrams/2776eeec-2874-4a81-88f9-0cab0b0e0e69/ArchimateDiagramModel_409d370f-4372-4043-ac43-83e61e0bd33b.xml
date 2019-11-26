@@ -200,7 +200,7 @@
         targetConnections="a2737cf6-729d-485c-9f3c-ba9029ce85de"
         type="1">
       <bounds
-          x="168"
+          x="324"
           y="36"
           width="120"
           height="109"/>
@@ -214,7 +214,7 @@
         targetConnections="197da758-cc81-4a88-9f6d-75c3fa21dff5"
         type="1">
       <bounds
-          x="324"
+          x="168"
           y="36"
           width="120"
           height="109"/>
